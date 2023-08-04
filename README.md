@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter and MERN**
 
-- 
-
 - 📫 How to reach me **dwivedishashwat176@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
