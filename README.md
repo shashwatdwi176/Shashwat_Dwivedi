@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/shashwat176" target="blank"><img src="https://img.shields.io/twitter/follow/shashwat176?logo=twitter&style=for-the-badge" alt="shashwat176" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and MERN**
 
-- 💬 Ask me about **MERN**
+- 
 
 - 📫 How to reach me **dwivedishashwat176@gmail.com**
 
