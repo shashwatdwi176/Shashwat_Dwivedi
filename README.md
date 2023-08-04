@@ -2,8 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatdwi176&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatdwi176" /> </p>
-<p align="right"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw1tBFUaNzguPCxFgnTGBzBa&ust=1691268394391000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjfqvPvw4ADFQAAAAAdAAAAABAJ)" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"
-
+<p align="right"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw1tBFUaNzguPCxFgnTGBzBa&ust=1691268394391000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjfqvPvw4ADFQAAAAAdAAAAABAJ)" " width="40" height="40"/> 
 <p align="left"> <a href="https://twitter.com/shashwat176" target="blank"><img src="https://img.shields.io/twitter/follow/shashwat176?logo=twitter&style=for-the-badge" alt="shashwat176" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and MERN**
